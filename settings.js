@@ -11,7 +11,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
+global.alivemsg = `📤I am alive now
+මම onlin  හලෝ 😇
 🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
@@ -56,7 +57,7 @@ global.dragonemoji = '😈' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94705753051'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
@@ -229,7 +230,7 @@ global.rep = { // All Replies = 145
     K65: '🙏පස්සෙ දෙන්නං🥲',
     K66: '😁බඩගිනි නෑ❤️😒',
     K67: '😳අම්මෝ හා හා🙏',
-    K68: '😂ඇයි යකෝ😉😈',
+    K68: '😂ඇයි යකෝ😉😈', 😽
     K69: '👻ඇයි හුයි😁 කෝං ගහේ නයි😂',
     K70: '🥲දන්නැත්තං නිකං ඉන්න😜',
     K71: '😂අපි තමයි හොඳටම කරේ🥲\n🤧රෙද්ද තමයි😂',
